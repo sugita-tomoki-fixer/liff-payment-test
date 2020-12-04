@@ -1,4 +1,5 @@
 # liff-payment-app
+liffテスト用
 
 ## Project setup
 ```
